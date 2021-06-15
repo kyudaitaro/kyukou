@@ -37,7 +37,7 @@
     "uuid": "^8.3.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.12.3",
+    "@babel/core": "^7.14.6",
     "@babel/preset-env": "^7.12.1",
     "@babel/preset-react": "^7.12.1",
     "@egy186/eslint-config": "^0.53.0",
